@@ -10,9 +10,9 @@ export default function Layout({ children }) {
             <NextSeo
                 title="dailyQ - quotes mobile app"
                 description="Browse, search thousands of insightful quotes."
-                canonical="https://dailyq.vercel.app"
+                canonical="https://getdailyq.app"
                 openGraph={{
-                    url: 'https://dailyq.vercel.app',
+                    url: 'https://getdailyq.app',
                     type: 'website',
                     title: 'dailyQ - daily quotes mobile app',
                     description: 'Browse, search thousands of insightful quotes',

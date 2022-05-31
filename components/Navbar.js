@@ -57,7 +57,7 @@ const Navbar = () => {
                         <ul>
                             <li className="mb-1"><a className="block p-4 text-sm font-medium text-gray-900 hover:bg-gray-50 rounded" href="#about">About</a></li>
                             <li className="mb-1">
-                                <a className="myButton" href="#">Contact Us</a>
+                                <a className="myButton" href="mailto:ethiel97@gmail.com">Contact Us</a>
                             </li>
                         </ul>
 

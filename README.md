@@ -3,7 +3,7 @@
 dailyQ mobile app landing page
 
 
-![Demo Image](https://github.com/Ethiel97/dailyq-landing_page/blob/master/assets/images/banner.jpg)
+![Demo Image](https://github.com/Ethiel97/dailyq-landing_page/blob/master/assets/images/banner.png)
 
 ## Deploy on your computer
 
